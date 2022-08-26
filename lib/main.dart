@@ -15,7 +15,6 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  //sino da error de lista vacia
   late Future<List<Giphy>> giphy;
 
   @override
@@ -23,7 +22,7 @@ class _MyAppState extends State<MyApp> {
     // ignore: todo
     // TODO: implement initState
     super.initState();
-    //para contener lista de Giphy
+
     giphy = getGifts();
   }
 
