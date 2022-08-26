@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+This project makes a Giphy API call and loads the response into a gridView displaying the gif and its title.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
