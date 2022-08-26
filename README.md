@@ -1,6 +1,4 @@
-# api_call
-
-A new Flutter project.
+# api_call - A Flutter project
 
 This project makes a Giphy API call and loads the response into a gridView displaying the gif and its title.
 
